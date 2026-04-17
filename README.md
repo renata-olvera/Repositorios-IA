@@ -1,1 +1,1 @@
-# Repositorios-IA
+# Practicas-IA
